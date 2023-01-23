@@ -7,6 +7,16 @@ In this lesson we will cover:
 3. The role of the user: Processor? Predictor? Participant?
 4. User experience at multiple levels
 
+## Interfaces: Between Users and Tasks
+
+At the heart of Human Computer Interaction is the idea that users use interfaces to accomplish some task.
+In HCI, we're going to focus on interfaces that are in some way computational or computerized.
+
+- We focus on the interaction between the user and the task though the interface, not just the interaction between the user and the interface itself.
+(We need to understand both the users goals and the tasks they're trying to accomplish)
+-  **eg.** thermostats vs revolutionary designs like the Nest
+
+
 ## Identifying A Task
 
 How do should we go about identifying a task?
